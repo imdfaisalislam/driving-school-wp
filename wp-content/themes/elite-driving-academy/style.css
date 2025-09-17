@@ -1,0 +1,19 @@
+/*
+Theme Name: Elite Driving Academy
+Description: A premium WordPress theme for driving schools with modern design, interactive features, and responsive layout. Perfect for Elite Driving Academy and other driving instruction businesses.
+Author: Faisal Islam
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 8.0
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: elite-driving-academy
+Tags: driving-school, education, business, responsive, modern, animations
+
+Elite Driving Academy WordPress Theme, Copyright 2024 Faisal Islam
+Elite Driving Academy is distributed under the terms of the GNU GPL
+*/
+
+/* Import the main stylesheet */
+@import url('assets/css/style.css');

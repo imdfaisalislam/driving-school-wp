@@ -1,0 +1,42 @@
+# WordPress uploads directory
+wp-content/uploads/
+
+# WordPress cache
+wp-content/cache/
+
+# Configuration files with sensitive data
+wp-config-local.php
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if using build tools)
+node_modules/
+
+# Backup files
+*.backup
+*.bak
+
+# Claude files
+.claude/
+*.claude
+CLAUDE.md
